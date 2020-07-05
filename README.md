@@ -1,7 +1,7 @@
 # Arduino-Projects
 
-* #### the ```servoturret``` program is to control two servos with me mouse on a graphical interface
-* #### the ```robot code is to control a little robot, wher you can choose between self-writing code with my IDE or control it via bluetooth```
+* #### the *servoturret* program is to control two servos with me mouse on a graphical interface
+* #### the *robot* program / folder is to control a little robot, wher you can choose between self-writing code with my IDE or control it via bluetooth
 ###### PS: An image of the robot (↑) will be uploaded soon :)
 
 ##### In */robot* there is a program named UNA_editor.py
