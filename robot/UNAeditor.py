@@ -229,7 +229,7 @@ class Ui_MainWindow(object):
         allowed = 0;
       }"""
 
-        with open('roboter_RAK.ino', 'w') as file:
+        with open('robot.ino', 'w') as file:
             file.write(uppertext)
             file.write(text)
             file.write(lowertext)
